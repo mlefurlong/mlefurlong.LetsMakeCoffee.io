@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Let's Make Coffee using a moka pot
 
-You can use the [editor on GitHub](https://github.com/emilyfurlong/LetsMakeCoffee/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emilyfurlong/LetsMakeCoffee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Preheat the water, by bringing the kettle to an almost boil.
+2. Add the heated water to the botttom chamber, filling to the max line (or the bottom of the safety valve). 
+3. Insert the filter basket into the bottom chamber. 
+4. Fill the filter basket to the top with ground coffee. Level the surface off with your finger and brush away loose coffee from the edge of the filter basket. 
+5. Screw the collecting chamber to the bottom chamber, using oven gloves. Don’t over tighten. 
+6. Put the moka pot on the hob, leaving the top lid open. Use moderate heat and make sure that the handle is not placed over the heat.
+7. As the coffee fills the collecting chamber, observe its colour. Once it turns from brown to honey, use oven gloves to remove the pot from the hob and close the lid. 
+8. Run cold water over the bottom chamber to stop extraction. This will help to give the coffee a the rich concentrated flavour. 
+9. Pour the coffee into a cup. 
+10. Add hot water or milk if desired, or sweeten to taste.
