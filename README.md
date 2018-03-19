@@ -1,4 +1,4 @@
-## Let's Make Coffee using a moka pot
+## Let's Make Coffee Using a Moka Pot
 
 1. Preheat the water, by bringing the kettle to an almost boil.
 2. Add the heated water to the botttom chamber, filling to the max line (or the bottom of the safety valve). 
